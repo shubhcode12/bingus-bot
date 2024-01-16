@@ -1,0 +1,14 @@
+2023/11/20-12:14:02.293 ad03 Reusing MANIFEST /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/20-12:14:02.294 ad03 Recovering log #196
+2023/11/20-12:14:02.363 ad03 Reusing old log /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000196.log 
+2023/11/20-12:14:11.373 8903 Level-0 table #202: started
+2023/11/20-12:14:11.406 8903 Level-0 table #202: 1131671 bytes OK
+2023/11/20-12:14:11.414 8903 Delete type=0 #196
+2023/11/20-12:14:12.390 8903 Compacting 1@1 + 2@2 files
+2023/11/20-12:14:12.455 8903 Generated table #203@1: 38454 keys, 2277528 bytes
+2023/11/20-12:14:12.489 8903 Generated table #204@1: 43637 keys, 1485034 bytes
+2023/11/20-12:14:12.489 8903 Compacted 1@1 + 2@2 files => 3762562 bytes
+2023/11/20-12:14:12.499 8903 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/11/20-12:14:12.499 8903 Delete type=2 #202
+2023/11/20-12:14:12.499 8903 Delete type=2 #198
+2023/11/20-12:14:12.499 8903 Delete type=2 #199
