@@ -1,3 +1,6 @@
-2023/11/20-12:14:00.595 a703 Reusing MANIFEST /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/Local Storage/leveldb/MANIFEST-000001
-2023/11/20-12:14:00.595 a703 Recovering log #3
-2023/11/20-12:14:00.595 a703 Reusing old log /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/Local Storage/leveldb/000003.log 
+2024/03/07-11:29:24.332 a603 Reusing MANIFEST /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/Local Storage/leveldb/MANIFEST-000001
+2024/03/07-11:29:24.334 a603 Recovering log #7
+2024/03/07-11:29:24.335 a603 Reusing old log /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/Local Storage/leveldb/000007.log 
+2024/03/07-11:47:12.754 a403 Level-0 table #11: started
+2024/03/07-11:47:12.759 a403 Level-0 table #11: 13341 bytes OK
+2024/03/07-11:47:12.771 a403 Delete type=0 #7

@@ -1,3 +1,18 @@
-2023/11/20-12:13:43.588 a303 Reusing MANIFEST /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/20-12:13:43.588 a303 Recovering log #196
-2023/11/20-12:13:43.624 a303 Reusing old log /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000196.log 
+2024/02/10-13:36:49.537 ae03 Reusing MANIFEST /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/10-13:36:49.537 ae03 Recovering log #191
+2024/02/10-13:36:49.553 ae03 Reusing old log /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000191.log 
+2024/02/10-15:27:27.199 1ca23 Level-0 table #199: started
+2024/02/10-15:27:27.222 1ca23 Level-0 table #199: 1321340 bytes OK
+2024/02/10-15:27:27.235 1ca23 Delete type=0 #191
+2024/02/10-15:27:28.311 1ca23 Compacting 1@1 + 4@2 files
+2024/02/10-15:27:28.377 1ca23 Generated table #200@1: 65808 keys, 2258252 bytes
+2024/02/10-15:27:28.425 1ca23 Generated table #201@1: 41998 keys, 2207584 bytes
+2024/02/10-15:27:28.455 1ca23 Generated table #202@1: 16053 keys, 2176355 bytes
+2024/02/10-15:27:28.487 1ca23 Generated table #203@1: 42577 keys, 994028 bytes
+2024/02/10-15:27:28.487 1ca23 Compacted 1@1 + 4@2 files => 7636219 bytes
+2024/02/10-15:27:28.499 1ca23 compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/02/10-15:27:28.500 1ca23 Delete type=2 #199
+2024/02/10-15:27:28.500 1ca23 Delete type=2 #196
+2024/02/10-15:27:28.500 1ca23 Delete type=2 #194
+2024/02/10-15:27:28.500 1ca23 Delete type=2 #195
+2024/02/10-15:27:28.500 1ca23 Delete type=2 #193

@@ -1,2 +1,3 @@
-2023/11/19-19:26:56.263 8303 Creating DB /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/shared_proto_db/metadata since it was missing.
-2023/11/19-19:26:56.277 8303 Reusing MANIFEST /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/03/07-11:34:50.499 a403 Reusing MANIFEST /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/03/07-11:34:50.499 a403 Recovering log #3
+2024/03/07-11:34:50.499 a403 Reusing old log /Users/shubhankarmahajan/Developer/bingus-bot/_IGNORE_session/Default/shared_proto_db/metadata/000003.log 
